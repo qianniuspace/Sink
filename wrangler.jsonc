@@ -21,10 +21,6 @@
   ],
   "kv_namespaces": [
     {
-      "binding": "KV",
-      "id": "ef93d42dc4b34969bab404d2e80f8dd3", // IMPORTANT: Change this to your KV namespace ID
-    },
-    {
       "binding": "LAUNCH_LINK_KV",
       "id": "52de6c9e3dfa4991bb49fd9b86d840fa",
     },
